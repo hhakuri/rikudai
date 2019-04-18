@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: "@rikudai"
+description: Rikuhiro Higasiyama<br><br>Tokyo University of Science<br>Faculty of Engineering Division
+lang: ja
+github:
+  is_project_page: false
