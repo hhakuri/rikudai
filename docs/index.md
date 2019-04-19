@@ -18,3 +18,23 @@ Faculty of Engineering Division
 - セキュリティ・キャンプ全国大会 2017  
 
 ## Skils
+```
+ネットワーク
+セキュリティ
+インフラ
+C++
+Javascript
+Ruby
+Python
+Node.js
+Play Framework
+Django
+Ruby on Rails
+sql
+Electron
+Elasticsearch
+aws
+```
+## Other
+Twitter: [@rikurist](https://twitter.com/rikulist)  
+Qiita: [@rikudai](https://qiita.com/rikudai)
