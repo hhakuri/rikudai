@@ -27,14 +27,18 @@ Javascript
 Ruby
 Python
 Node.js
+Scala
+Sql
 Play Framework
 Django
 Ruby on Rails
-sql
 Electron
+MySQL
+Redis
 Elasticsearch
 aws
 ```
 ## Other
 Twitter: [@rikurist](https://twitter.com/rikulist)  
 Qiita: [@rikudai](https://qiita.com/rikudai)
+GitHub: [@hhakuri](https://github.com/hhakuri)
