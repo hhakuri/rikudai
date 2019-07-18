@@ -50,9 +50,12 @@ aws
 
 ## Research
 マルチメディア信号処理の分野
+
 特に機械学習での画像処理
 
 ## Other
 Twitter: [@rikurist](https://twitter.com/rikulist)
+
 Qiita: [@rikudai](https://qiita.com/rikudai)
+
 GitHub: [@hhakuri](https://github.com/hhakuri)
